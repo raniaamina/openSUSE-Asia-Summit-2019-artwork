@@ -1,0 +1,9 @@
+COMMON PRESET
+
+    HD Video            : 16:9
+    pixel               : 1280:720
+    impress             : 11.022":6.20"
+
+    Standard monitor    : 4:3
+    pixel               : 1280:960
+    impress             : 11.022":8.27"
