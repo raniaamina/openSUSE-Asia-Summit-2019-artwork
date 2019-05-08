@@ -1,6 +1,6 @@
 # Greenhex 0.1
 
-Presentation Theme for OSAS 2019
+Libre Office Impress Theme for openSUSE
 
 ![screenshot](screenshot/1.png)
 
@@ -31,9 +31,9 @@ Presentation Theme for OSAS 2019
 - 7 chart slide
 - 2 proceed and timeline
 - 10 device mockup
-- run process
+- 2 run process
 - 11 infographic slides
-- 2 break
+- 2 section/break
 - 1 finish
 
 ## On going...
