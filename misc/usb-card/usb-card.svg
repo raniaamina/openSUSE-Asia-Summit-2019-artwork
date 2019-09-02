@@ -18695,11 +18695,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="-174.68701"
-     inkscape:cy="-1.6134438"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="-458.05167"
+     inkscape:cy="201.44364"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="usb-card-preview-dark"
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:pagecheckerboard="true"
@@ -18717,7 +18717,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -18935,13 +18935,8 @@
          id="rect4102"
          style="opacity:1;vector-effect:none;fill:#143643;fill-opacity:1;stroke:none;stroke-width:0.04919694;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <g
-         transform="translate(-1.0031111)"
+         transform="translate(-1.19227,4.1455326)"
          id="g8421">
-        <path
-           style="fill:#2a9288;fill-opacity:1;stroke:none;stroke-width:0.26710594;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-           d="m 192.76997,217.38208 c -3.41747,0 -6.18846,2.69765 -6.18846,6.02556 0,1.97854 0.97963,3.73421 2.49203,4.83277 v 3.29324 c 0,0.29692 0.2374,0.53588 0.53237,0.53588 h 10.84905 c 0.29499,0 0.53238,-0.23896 0.53238,-0.53588 v -11.29881 c 0,-0.29692 -0.23739,-0.53646 -0.53238,-0.53646 h -2.80973 c -1.13274,-1.40951 -2.89483,-2.3163 -4.87526,-2.3163 z"
-           id="path7920"
-           inkscape:connector-curvature="0" />
         <g
            id="g8367">
           <g
@@ -19215,17 +19210,6 @@
          inkscape:transform-center-x="0.0006242238"
          clip-path="url(#clipPath8579)"
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccscccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccscccscccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccscccccccccccccccccccccccccsssssccccccccccccccccscccccccccccccccccccccccccccccccccccsccsccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccc" />
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98520374px;line-height:6.52625513px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.27007988px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.37758541;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
-         x="174.94107"
-         y="239.63805"
-         id="text8262"><tspan
-           sodipodi:role="line"
-           x="174.94107"
-           y="239.63805"
-           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:3.98816323px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';letter-spacing:0.27007988px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.37758541;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-           id="tspan8260">https://opensuse.id</tspan></text>
       <path
          transform="matrix(-1,0,0,1,388.22797,0)"
          sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccscccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccscccscccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccscccccccccccccccccccccccccsssssccccccccccccccccscccccccccccccccccccccccccccccccccccsccsccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccc"
@@ -19274,7 +19258,7 @@
         </g>
       </g>
       <g
-         transform="matrix(0.84334474,0,0,0.84334474,30.408978,39.364577)"
+         transform="matrix(0.78280925,0,0,0.78280925,42.181129,59.684236)"
          id="g8548">
         <g
            id="g8517"
@@ -20844,6 +20828,38 @@
              style="fill:#ffffff;fill-opacity:1" />
         </g>
       </g>
+    </g>
+    <g
+       id="g3646"
+       transform="matrix(0.92821976,0,0,0.92821976,13.752039,23.101843)">
+      <text
+         id="text8262"
+         y="239.38559"
+         x="164.43909"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72289729px;line-height:4.87373829px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.09879402px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.26913428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         xml:space="preserve"><tspan
+           id="tspan8260"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.97831798px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';letter-spacing:0.09879402px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.26913428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           y="239.38559"
+           x="164.43909"
+           sodipodi:role="line">https://opensuse.id</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.72289729px;line-height:4.87373829px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.09879402px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.26913428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:markers stroke fill"
+         x="195.99063"
+         y="239.38559"
+         id="text3633"><tspan
+           sodipodi:role="line"
+           x="195.99063"
+           y="239.38559"
+           style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:2.97831798px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Semi-Bold';letter-spacing:0.09879402px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.26913428;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
+           id="tspan3631">https://opensuse.org</tspan></text>
+      <circle
+         r="0.49976197"
+         cy="238.494"
+         cx="193.6069"
+         id="path3635"
+         style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.15906224;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
   </g>
 </svg>
