@@ -15,7 +15,7 @@
    viewBox="0 0 135.46666 170.07333"
    version="1.1"
    id="svg8"
-   sodipodi:docname="template-for-speaker.svg"
+   sodipodi:docname="blank-template.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:export-filename="./template-for-speaker.png"
    inkscape:export-xdpi="300"
@@ -6268,9 +6268,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="854.15659"
-     inkscape:cy="74.500723"
+     inkscape:zoom="3.959798"
+     inkscape:cx="193.51226"
+     inkscape:cy="348.26053"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -6336,7 +6336,7 @@
        id="path5075"
        sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsscccccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccscccscscccccccccccccccscccccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccsccscccscscsccccccccccccsccccccscccccccccccccccccccccccccsccccccsscccccccccccccccccccssccccccccccccccccccccccccccccccccccccccccccccccccsccccccccccccccccccccccccccccscccscccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccscccscccccccccccccccccccccccsssssccccscccccccccccscccccccccccccccccccccccccccccccccsccsccccccccccccscccccccsccccccccscccccccccccsccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccsccscccccccccccsccccsccscccccccccccccccccccccccscccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccscccccccccccccccccccccccsssssssccssssccsssccsssssssssssssssssssssssscsssssssssssssssssssssssssssssssssssssssssscsccsccssssssssscsssssccccsccssssssssssssssssccccssssssssscssscccssssssccsssssssssssssssssscsscccscsssssscsscsscccccccsccccccsccccssccccssssssssssssccssccscccssccscccccccccsccssccccscsssssssssscsccssscccccccccccccccccssccssccccccccccccccscsssssssssscssccsscssccscccscssccccsccccccccccsccccssccsscccccccccccsscccssccsscccccccccsscccccccsscccccccccssc" />
     <g
-       transform="matrix(0.10628221,0,0,0.10628221,-219.01545,57.381391)"
+       transform="matrix(0.1005304,0,0,0.1005304,-213.39997,62.179242)"
        id="g5325">
       <g
          id="g5091"
@@ -6964,20 +6964,20 @@
     </g>
     <text
        id="text5079"
-       y="130.57236"
-       x="-257.77548"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.33932877px;line-height:5.22994614px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.44924378;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       y="136.98299"
+       x="-257.767"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.01357222px;line-height:4.9611969px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.42615867;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.44924378"
-         y="130.57236"
-         x="-257.77548"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;text-anchor:start;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.42615867"
+         y="136.98299"
+         x="-257.767"
          id="tspan5077"
          sodipodi:role="line">%VAR_name%</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot5087"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:22px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.20200585,0,0,0.20200585,-267.95453,60.825655)"><flowRegion
+       transform="matrix(0.19162545,0,0,0.19162545,-267.42299,70.820336)"><flowRegion
          id="flowRegion5083"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;stroke:none"><rect
            id="rect5081"
@@ -6988,7 +6988,7 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;stroke:none" /></flowRegion><flowPara
          id="flowPara5085"
          style="font-style:normal;text-align:start;text-anchor:start">%VAR_type% - %VAR_level%</flowPara></flowRoot>    <flowRoot
-       transform="matrix(0.22267658,0,0,0.22267658,-268.8026,72.644993)"
+       transform="matrix(0.21123398,0,0,0.21123398,-268.22748,82.032318)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:22px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="flowRoot5333"
        xml:space="preserve"><flowRegion
@@ -7005,7 +7005,7 @@
        xml:space="preserve"
        id="flowRoot5341"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;line-height:22px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       transform="matrix(0.22267658,0,0,0.22267658,-268.7646,66.821229)"><flowRegion
+       transform="matrix(0.21123398,0,0,0.21123398,-268.19144,76.507818)"><flowRegion
          id="flowRegion5337"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33333397px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;stroke:none"><rect
            id="rect5335"
@@ -7872,24 +7872,24 @@
          sodipodi:role="line">%VAR_date%</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.92902231px;line-height:4.06644344px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.3493008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       x="-257.30771"
-       y="104.27293"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.67573658px;line-height:3.85748267px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.33135143;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       x="-257.32327"
+       y="112.035"
        id="text6138-6"><tspan
          sodipodi:role="line"
          id="tspan6136-1"
-         x="-257.30771"
-         y="104.27293"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.3493008">%VAR_room%</tspan></text>
+         x="-257.32327"
+         y="112.035"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.33135143;font-size:4.67573658px;">%VAR_room%</tspan></text>
     <text
        id="text5598"
-       y="111.00739"
-       x="-257.50485"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.92902231px;line-height:4.06644344px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.3493008;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       y="118.4234"
+       x="-257.51028"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.67573658px;line-height:3.85748267px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.33135143;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.3493008"
-         y="111.00739"
-         x="-257.50485"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.33135143;font-size:4.67573658px;"
+         y="118.4234"
+         x="-257.51028"
          id="tspan5596"
          sodipodi:role="line">%VAR_time%</tspan></text>
     <g
@@ -9565,5 +9565,26 @@
        height="2.8512661"
        x="-265.24432"
        y="198.54118" />
+    <text
+       id="text1940"
+       y="90.946838"
+       x="-257.32327"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.67573658px;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-anchor:start;opacity:1;vector-effect:none;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.33135143;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.33135143;font-size:4.67573658px;"
+         y="90.946838"
+         x="-257.32327"
+         id="tspan1938"
+         sodipodi:role="line">Information Technology Department, </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.33135143;font-size:4.67573658px;"
+         y="95.622574"
+         x="-257.32327"
+         sodipodi:role="line"
+         id="tspan1944">Faculty of Engineering</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:100%;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro Bold';text-align:start;letter-spacing:0px;text-anchor:start;fill:#173f4f;fill-opacity:1;stroke:none;stroke-width:0.33135143;font-size:4.67573658px;"
+         y="100.29831"
+         x="-257.32327"
+         sodipodi:role="line"
+         id="tspan1942">Udayana University</tspan></text>
   </g>
 </svg>
