@@ -17,7 +17,7 @@
    id="svg8"
    sodipodi:docname="Spanduk.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   inkscape:export-filename="/home/sherlock/git/openSUSE/openSUSE-Asia-Summit-2019-artwork/spanduk/Spanduk Acara/Spanduk.svg.png"
+   inkscape:export-filename="./spanduk.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
@@ -392,6 +392,14 @@
        y1="184.062"
        x2="790.38208"
        y2="354.1709" />
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath28-36">
+      <path
+         d="M 0,113.187 H 609.891 V 0 H 0 Z"
+         id="path26-7"
+         inkscape:connector-curvature="0" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -400,9 +408,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.059720834"
-     inkscape:cx="6013.6428"
-     inkscape:cy="62.335785"
+     inkscape:zoom="0.077995032"
+     inkscape:cx="10441.153"
+     inkscape:cy="2041.658"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -717,41 +725,41 @@
     </g>
     <text
        id="text1860"
-       y="-407.98288"
-       x="987.93103"
-       style="font-style:normal;font-weight:normal;font-size:49.57056046px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.44565558"
+       y="-426.27966"
+       x="988.09863"
+       style="font-style:normal;font-weight:normal;font-size:44.91431427px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.21593118"
        xml:space="preserve"><tspan
          id="tspan1858"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.57056046px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.44565558"
-         y="-407.98288"
-         x="987.93103"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.91431427px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.21593118"
+         y="-426.27966"
+         x="988.09863"
          sodipodi:role="line">openSUSE • Free/Open Source Software • Cloud •  Containers •  LibreOffice •</tspan><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:49.57056046px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.44565558"
-         y="-346.01968"
-         x="987.93103"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:44.91431427px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.21593118"
+         y="-370.13678"
+         x="988.09863"
          sodipodi:role="line"
          id="tspan1396">dan Masih Banyak Lagi ...   </tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:54.94249344px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.39823055"
-       x="988.42926"
-       y="-233.61449"
+       style="font-style:normal;font-weight:normal;font-size:49.78165436px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.26689243"
+       x="988.55011"
+       y="-268.28998"
        id="text1923"><tspan
          sodipodi:role="line"
-         x="988.42926"
-         y="-233.61449"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.92922592px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.39823055"
+         x="988.55011"
+         y="-268.28998"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.67570114px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.26689243"
          id="tspan1915">5—6 Oktober 2019</tspan><tspan
          id="tspan1917"
          sodipodi:role="line"
-         x="988.42926"
-         y="-164.93637"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.92922592px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.39823055">Program Studi Teknologi Informasi</tspan><tspan
+         x="988.55011"
+         y="-206.06291"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.67570114px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.26689243">Program Studi Teknologi Informasi</tspan><tspan
          id="tspan1921"
          sodipodi:role="line"
-         x="988.42926"
-         y="-96.258255"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:55.92922592px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.39823055">Fakultas Teknik Universitas Udayana Bali</tspan></text>
+         x="988.55011"
+         y="-143.83585"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.67570114px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.26689243">Fakultas Teknik Universitas Udayana Bali</tspan></text>
     <g
        transform="matrix(1.5354921,0,0,1.5354921,77.40168,-610.26195)"
        id="g1937"
@@ -779,56 +787,85 @@
     </g>
     <text
        id="text1949"
-       y="-223.62617"
-       x="2131.3301"
-       style="font-style:normal;font-weight:normal;font-size:34.70242691px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18303728"
+       y="-259.2399"
+       x="2024.0963"
+       style="font-style:normal;font-weight:normal;font-size:31.44277px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07191265"
        xml:space="preserve"><tspan
-         id="tspan1941"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.43458176px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.18303728"
-         y="-223.62617"
-         x="2131.3301"
-         sodipodi:role="line">Umum IDR 100K</tspan><tspan
          id="tspan1943"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.43458176px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.18303728"
-         y="-180.24814"
-         x="2131.3301"
-         sodipodi:role="line">Pelajar IDR 50K</tspan><tspan
-         id="tspan1947"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.43458176px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.18303728"
-         y="-136.8701"
-         x="2131.3301"
-         sodipodi:role="line">Segera dapatkan tiket di</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
+         y="-259.2399"
+         x="2024.0963"
+         sodipodi:role="line">Umum <tspan
+   style="font-weight:bold"
+   id="tspan833">IDR 100K</tspan> | Pelajar <tspan
+   style="font-weight:bold"
+   id="tspan835">IDR 50K</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
+         y="-219.93643"
+         x="2024.0963"
+         sodipodi:role="line"
+         id="tspan764">Cashback 100% untuk pelajar/mahasiswa </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
+         y="-180.63298"
+         x="2024.0963"
+         sodipodi:role="line"
+         id="tspan766">dan 50% untuk umum (terbatas 200 tiket)</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
+         y="-141.32951"
+         x="2024.0963"
+         sodipodi:role="line"
+         id="tspan762"></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
+         y="-102.02605"
+         x="2024.0963"
+         sodipodi:role="line"
+         id="tspan837">Segera dapatkan tiket di</tspan><tspan
          id="tspan2020"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.43458176px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.18303728"
-         y="-93.492073"
-         x="2131.3301"
-         sodipodi:role="line">https://daftar-osas.opensuse.id/</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
+         y="-62.722588"
+         x="2024.0963"
+         sodipodi:role="line">https://daftar-osas.opensuse.id/</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
+         y="-23.419125"
+         x="2024.0963"
+         sodipodi:role="line"
+         id="tspan760" /></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:34.70242691px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.18303728"
-       x="2756.8037"
-       y="-224.37543"
+       style="font-style:normal;font-weight:normal;font-size:31.44277px;line-height:1.25;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.07191265"
+       x="2755.3452"
+       y="-259.91876"
        id="text1961"><tspan
          sodipodi:role="line"
-         x="2756.8037"
-         y="-224.37543"
-         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.43458176px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.18303728"
+         x="2755.3452"
+         y="-259.91876"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
          id="tspan1953">Seminar Kit</tspan><tspan
          sodipodi:role="line"
-         x="2756.8037"
-         y="-180.99739"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.43458176px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.18303728"
+         x="2755.3452"
+         y="-220.6153"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
          id="tspan1957">Kaos openSUSE</tspan><tspan
+         sodipodi:role="line"
+         x="2755.3452"
+         y="-181.31184"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
+         id="tspan785">USB Flash Disk &amp; Tumbler Eksklusif</tspan><tspan
          id="tspan2024"
          sodipodi:role="line"
-         x="2756.8037"
-         y="-137.61935"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.43458176px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.18303728">Kudapan &amp; Makan Siang</tspan><tspan
+         x="2755.3452"
+         y="-142.00838"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265">Kudapan &amp; Makan Siang</tspan><tspan
          sodipodi:role="line"
-         x="2756.8037"
-         y="-94.241325"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:39.43458176px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.18303728"
-         id="tspan1959">Pengalaman &amp; Jejaring Baru</tspan></text>
+         x="2755.3452"
+         y="-102.70491"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
+         id="tspan1959">Pengalaman &amp; Jejaring Baru</tspan><tspan
+         sodipodi:role="line"
+         x="2755.3452"
+         y="-63.401451"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.73042679px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:1.07191265"
+         id="tspan778">Doorprize  </tspan></text>
     <g
        id="g1922"
        transform="translate(411.50198,6.5898751)">
@@ -2528,15 +2565,15 @@
        sodipodi:nodetypes="ccccc" />
     <text
        id="text1929"
-       y="252.56891"
-       x="3352.8799"
-       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:43.18718719px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76307046;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       y="253.80099"
+       x="3370.4487"
+       style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48.10572052px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.84997559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:43.18718719px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.76307046;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         y="252.56891"
-         x="3352.8799"
+         style="font-style:normal;font-variant:normal;font-weight:600;font-stretch:normal;font-size:48.10572052px;line-height:1.25;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro, Semi-Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.84997559;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         y="253.80099"
+         x="3370.4487"
          id="tspan1927"
-         sodipodi:role="line">https://events.opensuse.org/conferences/summitasia19</tspan></text>
+         sodipodi:role="line">Daftar Sekarang! - https://daftar-osas.opensuse.id/</tspan></text>
     <g
        transform="matrix(5.8779919,0,0,5.8779919,1309.1906,-756.68915)"
        id="g1913-2"
@@ -2636,47 +2673,47 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:143.54754639px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.44565582"
-       x="984.54785"
-       y="-499.12976"
+       style="font-style:normal;font-weight:normal;font-size:130.06388855px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.21593142"
+       x="985.03326"
+       y="-508.86496"
        id="text1390"><tspan
          sodipodi:role="line"
-         x="984.54785"
-         y="-499.12976"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:143.54754639px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.44565582"
+         x="985.03326"
+         y="-508.86496"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:130.06388855px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.21593142"
          id="tspan1388">openSUSE Asia Summit 2019</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:58.77898026px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.44565558"
-       x="2131.083"
-       y="-269.37469"
+       style="font-style:normal;font-weight:normal;font-size:53.25777435px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.21593118"
+       x="2023.8724"
+       y="-300.69116"
        id="text1418"><tspan
          id="tspan1416"
          sodipodi:role="line"
-         x="2131.083"
-         y="-269.37469"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.77898026px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.44565558">Tiket</tspan></text>
+         x="2023.8724"
+         y="-300.69116"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.25777435px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.21593118">Tiket</tspan></text>
     <text
        id="text1426"
-       y="-269.37469"
-       x="2755.8074"
-       style="font-style:normal;font-weight:normal;font-size:58.77898026px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.44565558"
+       y="-300.69116"
+       x="2754.4426"
+       style="font-style:normal;font-weight:normal;font-size:53.25777435px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.21593118"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.77898026px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.44565558"
-         y="-269.37469"
-         x="2755.8074"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.25777435px;line-height:0px;font-family:'Source Sans Pro';-inkscape-font-specification:'Source Sans Pro';text-align:start;text-anchor:start;fill:#ffffff;stroke-width:2.21593118"
+         y="-300.69116"
+         x="2754.4426"
          sodipodi:role="line"
          id="tspan1424">Fasilitas</tspan></text>
     <rect
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:19.99999985, 19.99999985;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.65221262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:22.60885029, 22.60885029;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="rect1428"
-       width="1174.2809"
-       height="299.49237"
-       x="2088.1584"
-       y="-346.40268" />
+       width="1327.457"
+       height="338.55893"
+       x="1985.5408"
+       y="-369.92285" />
     <path
-       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:19.99999985, 19.99999985;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
-       d="M 2690.5273,-309.17765 V -84.135342"
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ffffff;stroke-width:5.65221262;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:22.60885029, 22.60885029;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 2666.4841,-327.8421 V -73.444706"
        id="path1466"
        inkscape:connector-curvature="0" />
     <image
@@ -2688,5 +2725,97 @@
        preserveAspectRatio="none"
        height="377.79504"
        width="377.79504" />
+    <g
+       id="g4134"
+       transform="matrix(0.79185115,0,0,0.79185115,2633.9527,-313.22448)"
+       style="fill:#ffffff"
+       inkscape:export-xdpi="300"
+       inkscape:export-ydpi="300">
+      <g
+         transform="matrix(0.35277777,0,0,-0.35277777,497.49864,316.45687)"
+         id="g4102"
+         style="fill:#ffffff">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4100"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 H 20.319 V 25.886 L 56.148,80.27 H 33.924 L 10.97,43.756 -12.019,80.27 h -23.75 L 0,25.397 Z" />
+      </g>
+      <g
+         transform="matrix(0.35277777,0,0,-0.35277777,428.625,302.29168)"
+         id="g4106"
+         style="fill:#ffffff">
+        <path
+           inkscape:connector-curvature="0"
+           id="path4104"
+           style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="M 0,0 43.566,40.116 H 70.692 L 27.146,0 70.692,-40.153 H 43.566 Z" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path4108"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35277775"
+         d="m 382.39912,288.13922 h 7.17796 v 28.26844 h -7.17796 z" />
+      <g
+         id="g4132"
+         transform="matrix(0.35277777,0,0,-0.35277777,343.76677,321.88876)"
+         style="fill:#ffffff">
+        <g
+           clip-path="url(#clipPath28-36)"
+           id="g4130"
+           style="fill:#ffffff">
+          <g
+             transform="translate(315.9688,15.3975)"
+             id="g4112"
+             style="fill:#ffffff">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4110"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 h 64.326 c 11.253,0 18.578,6.08 18.578,18.979 v 11.167 c 0,11.292 -5.884,18.977 -18.578,18.977 H 16.222 v 15.001 h 62.05 V 80.27 H 14.889 C 3.421,80.27 -3.553,73.861 -3.553,61.292 v -9.983 c 0,-10.945 6.343,-18.414 18.442,-18.414 H 63.144 V 16.186 H 0 Z" />
+          </g>
+          <g
+             transform="translate(493.335,15.3975)"
+             id="g4116"
+             style="fill:#ffffff">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4114"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 h 68.682 c 11.347,0 18.806,6.153 18.806,19.212 v 11.297 c 0,11.424 -5.975,19.208 -18.806,19.208 H 19.972 V 64.893 H 82.797 V 81.234 H 18.627 C 7.043,81.234 0,74.749 0,62.025 v -10.1 C 0,40.85 6.398,33.286 18.627,33.286 H 67.484 V 16.376 H 0 Z" />
+          </g>
+          <g
+             transform="translate(17.3838,15.3975)"
+             id="g4120"
+             style="fill:#ffffff">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4118"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="M 0,0 H 79.72 V 16.186 H 20.345 V 80.27 H 0 Z" />
+          </g>
+          <g
+             transform="translate(145.8672,15.3975)"
+             id="g4124"
+             style="fill:#ffffff">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4122"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="M 0,0 H 18.575 V 57.154 L 79.071,0 H 91.835 V 80.27 H 73.247 V 32.163 L 22.349,80.27 H 0 Z" />
+          </g>
+          <g
+             transform="translate(584.251,88.5879)"
+             id="g4128"
+             style="fill:#ffffff">
+            <path
+               inkscape:connector-curvature="0"
+               id="path4126"
+               style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               d="m 0,0 c 0,1.145 0.222,2.222 0.638,3.235 0.44,0.992 1.032,1.854 1.78,2.587 0.731,0.694 1.597,1.282 2.572,1.708 0.99,0.414 2.041,0.621 3.154,0.621 1.094,0 2.158,-0.207 3.149,-0.621 0.987,-0.426 1.852,-1.014 2.601,-1.708 0.737,-0.733 1.327,-1.595 1.767,-2.587 0.412,-1.013 0.632,-2.09 0.632,-3.235 0,-1.158 -0.22,-2.244 -0.632,-3.261 -0.44,-0.984 -1.03,-1.824 -1.767,-2.557 C 13.145,-6.541 12.28,-7.114 11.293,-7.53 10.302,-7.943 9.238,-8.151 8.144,-8.151 7.031,-8.151 5.98,-7.943 4.99,-7.53 4.015,-7.114 3.149,-6.541 2.418,-5.818 1.67,-5.085 1.078,-4.245 0.638,-3.261 0.222,-2.244 0,-1.158 0,0 m 1.446,0 c 0,-1 0.179,-1.902 0.521,-2.758 0.356,-0.844 0.83,-1.572 1.428,-2.221 0.597,-0.609 1.307,-1.084 2.123,-1.451 0.832,-0.368 1.694,-0.537 2.626,-0.537 0.933,0 1.803,0.169 2.634,0.537 0.805,0.367 1.502,0.842 2.115,1.451 0.601,0.649 1.081,1.377 1.421,2.221 0.355,0.856 0.537,1.758 0.537,2.758 0,0.977 -0.182,1.892 -0.537,2.759 -0.34,0.843 -0.82,1.589 -1.421,2.194 C 12.28,5.576 11.583,6.065 10.778,6.429 9.947,6.786 9.077,6.967 8.144,6.967 7.212,6.967 6.35,6.786 5.518,6.429 4.702,6.065 3.992,5.576 3.395,4.953 2.797,4.348 2.323,3.602 1.967,2.759 1.625,1.892 1.446,0.977 1.446,0 m 3.585,4.76 h 3.602 c 2.217,0 3.328,-0.902 3.328,-2.698 0,-0.862 -0.234,-1.5 -0.732,-1.904 -0.478,-0.402 -1.075,-0.634 -1.795,-0.706 L 12.18,-4.746 H 10.621 L 8.044,-0.67 H 6.483 V -4.746 H 5.031 Z M 6.483,0.539 h 1.485 c 0.323,0 0.636,0 0.941,0.023 0.302,0.015 0.591,0.073 0.815,0.184 0.235,0.086 0.43,0.253 0.578,0.477 0.134,0.216 0.218,0.522 0.218,0.914 0,0.302 -0.069,0.56 -0.198,0.767 C 10.177,3.09 10.02,3.247 9.813,3.348 9.611,3.442 9.375,3.516 9.133,3.551 8.887,3.592 8.633,3.602 8.385,3.602 H 6.483 Z" />
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
