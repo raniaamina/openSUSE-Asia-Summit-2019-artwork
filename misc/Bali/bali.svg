@@ -16,7 +16,10 @@
    id="svg8"
    inkscape:version="0.92.3 (2405546, 2018-03-11)"
    sodipodi:docname="bali.svg"
-   style="enable-background:new">
+   style="enable-background:new"
+   inkscape:export-filename="./bali.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -27,8 +30,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.88407603"
-     inkscape:cx="279.58185"
-     inkscape:cy="278.85352"
+     inkscape:cx="190.78858"
+     inkscape:cy="259.6244"
      inkscape:document-units="px"
      inkscape:current-layer="layer3"
      showgrid="false"
@@ -58,7 +61,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date />
         <dc:creator>
           <cc:Agent>
