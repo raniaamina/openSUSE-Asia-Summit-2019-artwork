@@ -15,7 +15,7 @@
    viewBox="0 0 1052.3622 744.09447"
    id="svg5752"
    version="1.1"
-   inkscape:version="0.92.4 (unknown)"
+   inkscape:version="0.92.4 5da689c313, 2019-01-14"
    sodipodi:docname="certificate.svg"
    inkscape:export-filename="./certificate.png"
    inkscape:export-xdpi="90"
@@ -2199,17 +2199,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="446.0509"
-     inkscape:cy="449.36599"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="397.34469"
+     inkscape:cy="254.24461"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="false"
      units="cm"
-     inkscape:window-width="1680"
-     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
      inkscape:window-x="0"
-     inkscape:window-y="1"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="false"
      inkscape:guide-bbox="true"
@@ -3010,19 +3010,19 @@
          letter-spacing="0"
          line-height="125%"
          word-spacing="0"
-         x="319.44409"
+         x="317.07791"
          y="706.40558"
          font-size="16"
          font-stretch="normal"
          xml:space="preserve"
          id="text279"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:0%;font-family:'Comic Sans MS';letter-spacing:0;word-spacing:0;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"><tspan
-           x="319.44409"
+           x="317.07791"
            font-size="17.5"
            y="706.40558"
            sodipodi:role="line"
            id="tspan281"
-           style="font-size:17.5px;line-height:1.25;font-family:'Open Sans';fill:#000000">Prof. Ir. Ngakan Putu Gede Suardana, MT.,PhD</tspan></text>
+           style="font-size:17.5px;line-height:1.25;font-family:'Open Sans';fill:#000000">Prof. Ir. Ngakan Putu Gede Suardana, MT., PhD</tspan></text>
       <g
          transform="translate(311.32727,58.842374)"
          id="g3587">
@@ -3137,7 +3137,8 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="Nama 1">
+     inkscape:label="Nama 1"
+     style="display:none">
     <flowRoot
        transform="matrix(1.6622045,0,0,1.6622045,-351.35083,-256.54583)"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:0.01%;font-family:'Dakwart Letter';-inkscape-font-specification:'Dakwart Letter';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#2d9d91;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -3225,7 +3226,7 @@
          sodipodi:role="line"
          y="361.8269"
          font-size="20"
-         x="529.18756">Sebagai Pembicara </tspan><tspan
+         x="528.211">Sebagai Pembicara </tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:Cantarell;-inkscape-font-specification:Cantarell;text-anchor:middle;fill:#000000"
          id="tspan4496"
          sodipodi:role="line"
